@@ -1,3 +1,5 @@
+![CBF Academy Logo borrowed from CBF](https://res.cloudinary.com/dft0cktie/image/upload/v1687358294/stole_yg42cp.png)
+
 # Lessons learned from this homework
 
 In this lesson I learned how to use GitHub and the ways that CBF would like us to apply it to our work.
@@ -7,21 +9,24 @@ In this lesson I learned how to use GitHub and the ways that CBF would like us t
 The README.md file teaches me all of the ways that GitHub is best utilised for CBF including how to make new repositories, clone and fork them. in additions to giving materias on where to find further details and assistance. This was supported by a lesson delivered by the CBF teams.
 
 - The homework also details how to clone/fork a repository. 
-- When it is appropriate to clone/ fork a repository. 
-- Creating a branch.
-- Initializing a repo.
-- Commiting a message and pushing to branch.
+- When it is appropriate to clone using **git clone** and adding the shh code and when to fork a repository. 
+- Creating a branch and use the branch at the same time using **git checkout -b [<branch name>]**.
+- Initializing a repo. **git init**.
+- Commiting a message. **git commit -m**.
+- push a branch to github **git push**.
+- Check a repositories curent status. **git status**.
 - Creating a pull request
 
 ## What I need to work on
 
 I still get a little confused about working and terminology I'm hoping these... moments pass and I get up to speed very quickly.
 
-```Create a new markdown file in this repository. Let them know what you learned and what you are still confused about! Experiment with different styles!```
+>Create a new markdown file in this repository. Let them know what you learned and what you are still confused about! Experiment with different styles!
+
 
 <!-- I'll be honest I just forked it -->
 
 
--[] Revisit this at the end of July to see if that... moment is still there.
--[] Remember to commit and commit often!
--[] Find where the homework links are!!
+- [] Revisit this at the end of July to see if that... moment is still there.
+- [] Remember to commit and commit often!
+- [] Find where the homework links are!!
