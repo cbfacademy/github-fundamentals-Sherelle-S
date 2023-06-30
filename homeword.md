@@ -27,6 +27,6 @@ I still get a little confused about working and terminology I'm hoping these... 
 <!-- I'll be honest I just forked it -->
 
 
-- [] Revisit this at the end of July to see if that... moment is still there.
-- [] Remember to commit and commit often!
-- [] Find where the homework links are!!
+-[] Revisit this at the end of July to see if that... moment is still there.
+-[] Remember to commit and commit often!
+-[] Find where the homework links are!!
